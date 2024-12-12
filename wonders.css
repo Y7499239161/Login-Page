@@ -1,0 +1,178 @@
+wonders.css
+#navbar{
+    background-color: aqua
+    height: 70px;
+   
+}
+
+#navbar ul li{
+    list-style-type:none;
+    display: inline-block;
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    margin:10px;
+    text-decoration: none;
+    background-color: rgb(113, 125, 219);
+    width: 100px;
+  
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#navbar ul li:hover{
+             width: 140px; 
+}
+#navbar{
+    text-align: center;
+    
+}
+#d1{
+   
+    background-size: cover;
+    height: 100vh;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#d1 h1{
+    font-size: 3em;
+    color: lightblue;
+    padding-left: 700px;
+
+}
+#taj{
+    display:flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;    
+    
+}
+#mahal:hover{
+    width: 500px;
+
+}
+#mahal{
+    height: 400px;
+    width: 420px;
+    border: 2px solid black;
+    border-radius: 50px;
+    object-fit: cover;
+    align-items:center;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+#body6{
+    background-image:url(w.jpg);
+        background-size: cover;
+}
+#body1{
+    background-image:url(ba.jpeg);
+    background-size: cover;
+}
+#petra{
+    display:flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: center; 
+}
+#p1{
+    height: 400px;
+    width: 420px;
+    border: 2px solid black;
+    border-radius: 50px;
+    object-fit: cover;
+    align-items:center;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.body4{
+    background-image:url(ba.jpeg);
+    background-size: cover;
+
+}
+#text2{
+    font-style: unset;
+
+
+}
+#china{
+    display:flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: center; 
+}
+#wall{
+    height: 400px;
+    width: 420px;
+    border: 2px solid black;
+    border-radius: 50px;
+    object-fit: cover;
+    align-items:center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#img{
+    display:flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: center; 
+}
+#machu{
+    height: 400px;
+    width: 420px;
+    border: 2px solid black;
+    border-radius: 50px;
+    object-fit: cover;
+    align-items:center;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#christ{
+    display:flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: center; 
+}
+#redeemer{
+    height: 400px;
+    width: 420px;
+    border: 2px solid black;
+    border-radius: 50px;
+    object-fit: cover;
+    align-items:center;
+    margin-left: 20px;
+    margin-right: 20px; 
+
+}
+#video iframe{
+    border-radius: 50px;
+    border: 5px solid black;
+    height: 400px;
+    width: 420px;
+}
+#about{
+
+    
+    display: flex;
+   
+}
+#aboutright{
+    padding-left: 20px;
+}
+
+
+
+
